@@ -1,0 +1,22 @@
+Ruby Blackjack
+====================
+
+A commandline version of Blackjack written in Ruby.
+
+How to play
+=======
+Step 1: cd to the directory of play_blackjack.rb
+
+Step 2: issue 'ruby play_blackjack.rb' to play
+
+Step 3: enter a bankroll when prompted: e.g. 1000
+
+Step 5: place your bet: e.g. 100
+
+Step 6: play your hand
+
+Step 7: smile when you win!
+
+	
+
+Copyright (c) 2010 'asciiu' released under the MIT license
